@@ -9,7 +9,7 @@ class Translation(object):
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @vaathi_comin_g "
     DOWNLOAD_START = "<b>Downloading To My server !! pls Wait 😷</b>"
-    UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
+    UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG ♻️</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel @MallusHubb</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
